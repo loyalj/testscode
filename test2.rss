@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>American Underground</title>
+    <language>en-us</language>
+    <link>https://api-staging.fabl.co/rss/uberflip/19</link>
+    <description>Fabl RSS Channel - American Underground</description>
+
+  <item>
+    <guid>https://fabl.stories-staging.fabl.co/nugget</guid>
+    <title>Nugget</title>
+    <pubDate>Mon, 13 Jul 2015 00:00:00 +0000</pubDate>
+    <link>https://fabl.stories-staging.fabl.co/nugget</link>
+    <description><![CDATA[]]></description>
+    <enclosure
+      type="image/png"
+      url="http://d3ab9omd0xmpv4.cloudfront.net/attachments/media/1478/processed/nugget_DJST.small.png"
+      length="0"
+    />
+    <category>itemType.fabl</category>
+  </item>
+
+  <item>
+    <guid>https://fabl.stories-staging.fabl.co/predictify-me</guid>
+    <title>Predictify.Me</title>
+    <pubDate>Thu, 14 May 2015 00:00:00 +0000</pubDate>
+    <link>https://fabl.stories-staging.fabl.co/predictify-me</link>
+    <description><![CDATA[]]></description>
+    <enclosure
+      type="image/jpeg"
+      url="http://d3ab9omd0xmpv4.cloudfront.net/attachments/media/1048/processed/JBR_2572_pe.small.jpg"
+      length="0"
+    />
+    <category>itemType.fabl</category>
+  </item>
+
+  <item>
+    <guid>https://fabl.stories-staging.fabl.co/black-wall-street</guid>
+    <title>Black Wall Street</title>
+    <pubDate>Wed, 13 May 2015 00:00:00 +0000</pubDate>
+    <link>https://fabl.stories-staging.fabl.co/black-wall-street</link>
+    <description><![CDATA[]]></description>
+    <enclosure
+      type="image/jpeg"
+      url="http://d3ab9omd0xmpv4.cloudfront.net/attachments/media/999/processed/runaway_black_wall_street_set_4.small.jpg"
+      length="0"
+    />
+    <category>itemType.fabl</category>
+  </item>
+
+  <item>
+    <guid>https://fabl.stories-staging.fabl.co/mati</guid>
+    <title>Mati</title>
+    <pubDate>Wed, 25 Feb 2015 00:00:00 +0000</pubDate>
+    <link>https://fabl.stories-staging.fabl.co/mati</link>
+    <description><![CDATA[]]></description>
+    <enclosure
+      type="image/png"
+      url="http://d3ab9omd0xmpv4.cloudfront.net/attachments/media/840/processed/citrusWet.small.png"
+      length="0"
+    />
+    <category>itemType.fabl</category>
+  </item>
+
+  <item>
+    <guid>https://fabl.stories-staging.fabl.co/american-underground</guid>
+    <title>American Underground</title>
+    <pubDate>Tue, 24 Feb 2015 00:00:00 +0000</pubDate>
+    <link>https://fabl.stories-staging.fabl.co/american-underground</link>
+    <description><![CDATA[]]></description>
+    <enclosure
+      type="image/jpeg"
+      url="http://d3ab9omd0xmpv4.cloudfront.net/attachments/media/833/processed/_PIR6623_(1).small.jpg"
+      length="0"
+    />
+    <category>itemType.fabl</category>
+  </item>
+  </channel>
+</rss>
